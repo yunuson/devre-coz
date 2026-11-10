@@ -2,11 +2,11 @@
 
 Devreyi çiz, çözümünü adım adım öğren.
 
-`devre-coz`, doğru akım (DC) devrelerini kâğıttaki gibi çözmeyi öğreten, tarayıcıda çalışan bir uygulamadır. Devreni kurarsın, gerilim ve akımları çizimin üstünde görürsün. İstersen aynı devrenin çözümünü sınavda yazacağın biçimde, Türkçe ve adım adım açarsın.
-
 **[Uygulamayı aç →](https://yunuson.github.io/devre-coz/)** Kurulum ya da üyelik gerekmez.
 
-<!-- Ekran görüntüsü buraya: ![devre-coz ekran görüntüsü](docs/ekran-goruntusu.png) -->
+[![devre-coz: iki kaynaklı bir devre çiziliyor, çalıştırılıyor ve VB düğümünde Kirchhoff'un Akım Kanunu ile adım adım çözülüyor](docs/demo.gif)](https://yunuson.github.io/devre-coz/)
+
+`devre-coz`, doğru akım (DC) devrelerini kâğıttaki gibi çözmeyi öğreten, tarayıcıda çalışan bir uygulamadır. Devreni kurarsın, gerilim ve akımları çizimin üstünde görürsün. İstersen aynı devrenin çözümünü sınavda yazacağın biçimde, Türkçe ve adım adım açarsın.
 
 ## Neden?
 
