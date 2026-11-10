@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.log
+*.local
+.DS_Store
+Thumbs.db
+
+# Internal working files for the AI assistants; kept locally, not published.
+TASKS.md
+KUCUK-ISLER.md
+AGENTS.md
+.clinerules
